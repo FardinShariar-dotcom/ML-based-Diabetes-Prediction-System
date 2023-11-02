@@ -1,1 +1,1 @@
-# ML-nased-Diabetes-Prediction-System
+# ML-based-Diabetes-Prediction-System
